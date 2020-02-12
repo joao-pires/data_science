@@ -12,12 +12,10 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joao-victor-pires/)
-* [Medium](https://medium.com/@joaopires.vilela)
-
 
 ## Projetos:
 
-** Analisando dados do AirBnb - Vancouver: https://bit.ly/31Om466
+** Analisando dados do AirBnb - Vancouver:** https://bit.ly/31Om466
 
 
 
