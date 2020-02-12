@@ -15,7 +15,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 
 ## Projetos:
 
-** Analisando dados do AirBnb - Vancouver:** https://bit.ly/31Om466
+**Analisando dados do AirBnb - Vancouver:** https://bit.ly/31Om466
 
 
 
