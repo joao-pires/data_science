@@ -6,7 +6,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 
 # João Pires
 
-<sub>*Systems Adminstrator and Student of Data Scientist*</sub>
+<sub>*Systems Adminstrator and Data Scientist*</sub>
 
 
 
